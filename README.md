@@ -1,6 +1,6 @@
 # Flask-Tunnel
 
-> A minor improvement on the [flask-ngrok](https://pypi.org/project/flask-ngrok/) tool for tunneling [Flask](https://flask.palletsprojects.com/en/2.3.x/) web apps to public URLs. Added support for [ngrok](https://ngrok.com/) configs, such as authentication, custom domains, and logging; can run on Jupyter clients such as [Google Colab](https://colab.google/).
+> A minor improvement on the [flask-ngrok](https://pypi.org/project/flask-ngrok/) tool for tunneling [Flask](https://flask.palletsprojects.com/en/2.3.x/) web apps to public URLs. Added support for [ngrok](https://ngrok.com/) configs, such as authentication, custom domains, and logging; can run on Jupyter clients such as [Colab](https://colab.google/).
 
 ## Installation
 
